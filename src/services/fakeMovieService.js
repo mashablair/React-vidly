@@ -68,6 +68,7 @@ const movies = [
 ];
 
 export function getMovies() {
+  console.log(movies);
   return movies;
 }
 
